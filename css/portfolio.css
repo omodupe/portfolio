@@ -1,0 +1,37 @@
+.line {
+border: 2px solid #7d97ad;
+}
+
+.jumbotron {
+    background-image: url("../portfolio-images/bg-img.jpg");
+}
+
+.header-text p {
+    float: right;
+}
+
+.header-text {
+    line-height: 5px;
+}
+
+.images {
+    width: 150px;
+}
+
+.right-container {
+    float: right;
+}
+
+.amend {
+    text-decoration: none;
+    color: black;
+}
+
+.amend :hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.image-text {
+    line-height: 3px;
+}
